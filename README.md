@@ -1,3 +1,9 @@
+
+#Key Files
+ index2.html = Spotify Project/index2.html
+ style2.css = Spotify Project/style2.css
+
+
 # Spotify-Home-Page
 This project is a meticulous clone of the Spotify home page, crafted using HTML and CSS. The objective was to closely replicate the design and layout of Spotify's interface to demonstrate my proficiency in front-end web development.
 
