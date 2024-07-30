@@ -1,6 +1,8 @@
 
 #Key Files
+
  index2.html = Spotify Project/index2.html
+ 
  style2.css = Spotify Project/style2.css
 
 
