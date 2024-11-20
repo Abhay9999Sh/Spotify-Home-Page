@@ -3,6 +3,11 @@
 A detailed clone of the Spotify home page, crafted using **HTML** and **CSS**. This project closely replicates Spotify's interface to demonstrate my proficiency in front-end web development.
 
 ---
+## 🌐 Live Demo
+Check out the live demo of the project:  
+https://abhay9999sh.github.io/Spotify-Home-Page/ 
+
+---
 
 ## 📂 Key Files  
 
